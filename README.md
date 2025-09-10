@@ -27,8 +27,8 @@ The client-side part is the `surveyjs-react-client` React application. The curre
 
 ## Licensing
 
-This demo illustrates a basic integration setup between a [sample React application](https://github.com/surveyjs/surveyjs-react-client) that integrates the SurveyJS [Survey Creator](https://surveyjs.io/survey-creator/documentation/overview) and [Form Library](https://surveyjs.io/form-library/documentation/overview) components, and a Python backend.
+This demo illustrates a basic integration setup between a [sample React application](https://github.com/surveyjs/surveyjs-react-client) that includes the SurveyJS [Survey Creator](https://surveyjs.io/survey-creator/documentation/overview) and [Form Library](https://surveyjs.io/form-library/documentation/overview) components, and a Python backend.
 
-Please note that the **Survey Creator component is proprietary software** and requires a **developer licence** to be integrated and used in your own application.
+Please note that the **Survey Creator component is proprietary software** and requires a **developer license** to be integrated and used in your own application.
 
-For full details, please refer to the [SurveyJS Licensing FAQ](https://surveyjs.io/faq#licensing) and the [SurveyJS End-User Licence Agreement (EULA)](https://surveyjs.io/Developer-License-Agreement.pdf).
+For full details, please refer to the [SurveyJS Licensing FAQ](https://surveyjs.io/faq#licensing) and the [SurveyJS End-User License Agreement (EULA)](https://surveyjs.io/Developer-License-Agreement.pdf).
