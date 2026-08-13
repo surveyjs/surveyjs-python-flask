@@ -2,7 +2,7 @@
 
 This demo shows how to integrate [SurveyJS](https://surveyjs.io/) components with a Python backend on the example of the [Flask](https://flask.palletsprojects.com/en/stable/) framework.
 
-[View Demo Online](https://surveyjs-flask.azurewebsites.net/)
+[View Demo Online](https://surveyjs-python-flask.demos.surveyjs.io/)
 
 ## Disclaimer
 
