@@ -14,7 +14,7 @@ Install [NodeJS](https://nodejs.org/) on your machine. After that, run the follo
 
 ```bash
 git clone https://github.com/surveyjs/surveyjs-python-flask.git
-cd surveyjs-flask
+cd surveyjs-python-flask
 pip install -r requirements.txt
 python ./app.py
 ```
