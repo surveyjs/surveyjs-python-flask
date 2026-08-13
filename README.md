@@ -13,7 +13,7 @@ This demo must not be used as a real service as it doesn't cover such real-world
 Install [NodeJS](https://nodejs.org/) on your machine. After that, run the following commands:
 
 ```bash
-git clone https://github.com/surveyjs/surveyjs-flask.git
+git clone https://github.com/surveyjs/surveyjs-python-flask.git
 cd surveyjs-flask
 pip install -r requirements.txt
 python ./app.py
